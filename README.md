@@ -2,6 +2,7 @@
 
 A tool to check mp4 video file compatibility with H264Dxva2Decoder.
 
+
 USE_DIRECTORY 1 : check all files from directory (INPUT_DIRECTORY)
 USE_DIRECTORY 0 : check one file (INPUT_FILE)
 
